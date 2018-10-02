@@ -3,7 +3,7 @@ Applied to the Clohessy-Wiltshire Relative Motion Model and Acceleration Model
 
 MATLAB Code by Bryce Doerr doerr024(at)umn.edu
 
-Algorithm used in the paper "Random Finite Set Thoery and Optimal Control for Large Spacecraft Swarms"
+Algorithm used in the paper "Random Finite Set Theory and Optimal Control for Large Spacecraft Swarms"
 by: Bryce Doerr, Richard Linares, Pingping Zhu, Silvia Ferrari
 https://arxiv.org/abs/1810.00696
 
