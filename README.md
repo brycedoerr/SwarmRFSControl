@@ -9,7 +9,7 @@ https://arxiv.org/abs/1810.00696
 
 See the README for each implmentation
 
-The GIF below shows a visualization of the RFS Control for the Clohessy-Wiltshire Relative Motion Problem. The swarm contains 77 agents, and they move into a star formation. 
+The GIF below shows a visualization of the RFS Control for the Clohessy-Wiltshire Relative Motion Problem. The swarm contains 77 agents that move into a star formation. 
 
 ![](revised_77.gif)
 
