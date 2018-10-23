@@ -9,6 +9,10 @@ https://arxiv.org/abs/1810.00696
 
 See the README for each implmentation
 
+The GIF below shows a visualization of the RFS Control for the Clohessy-Wiltshire Relative Motion Problem. The swarm contains 77 agents, and they move into a star formation. 
+
+![](revised_77.gif)
+
 Other papers used:
 ILQR algorithm is based on Yuval Tassa's implementation
 https://www.mathworks.com/matlabcentral/fileexchange/52069-ilqg-ddp-trajectory-optimization

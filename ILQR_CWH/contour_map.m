@@ -83,8 +83,8 @@ for j=1:ts-1
     contour(X,Y,PDFj,linspace(0.006,0.218,100),'linewidth',2)
     hold on;
     set(gcf,'color',[1 1 1]);
-    xlabel('x')
-    ylabel('y')
+    xlabel('x (m)')
+    ylabel('y (m)')
     title('Clohessy-Wiltshire Relative Motion Control')
     grid on;
     for i=1:num_density_des
@@ -94,7 +94,7 @@ for j=1:ts-1
     ylim([-15 15]);
     hold off;
 
-    mm(:,k_count) = getframe;
+    mm(:,k_count) = getframe(gcf);
     k_count=k_count+1;
     pause(1);
 end
