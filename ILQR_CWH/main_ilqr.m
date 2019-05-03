@@ -30,7 +30,7 @@ xdes=10*xdes;
 %Rotate Star Shape
 for i=1:length(t)-1
     for j=1:num_density_des
-    xdes(1:2,j,i+1)=[cos(n*t(i+1)) -sin(n*t(i+1)); sin(n*t(i+1)) cos(n*t(i+1))]*xdes(1:2,j,i);
+    xdes(1:2,j,i+1)=[cos(n*dt) -sin(n*dt); sin(n*dt) cos(n*dt)]*xdes(1:2,j,i);
     end
 end
 
