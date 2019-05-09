@@ -50,7 +50,7 @@ test_cost_shape(x0,xdes,fh_cost)
 %Determine MPC response
 mpc_script(x0,xdes,t,dt,dist_name,fh_cost)
 
-%Plot GM of ILQR response
+%Plot GM of MPC response
 contour_map(x0,xdes,dist_name)
 
 
