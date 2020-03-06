@@ -1,5 +1,5 @@
 ILQR and MPC Swarm Control using Random Finite Set Theory
-Applied to the Clohessy-Wiltshire Relative Motion Model and Acceleration Model
+Applied to the Clohessy-Wiltshire Relative Motion Model and Acceleration Model.
 
 MATLAB Code by Bryce Doerr doerr024(at)umn.edu
 
